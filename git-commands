@@ -1,0 +1,7 @@
+#Git Commands
+git --version
+git config --list
+git config --global user.name "username"
+git config --global user.email "email"
+git init:- Used for initializing a git 
+git add --all/./filename :- Used for adding a new file to git
